@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "64979038899",
+    "firebase_url": "https://location-tracker-bd639.firebaseio.com",
+    "project_id": "location-tracker-bd639",
+    "storage_bucket": "location-tracker-bd639.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64979038899:android:c761f859bb0097e33536c6",
+        "android_client_info": {
+          "package_name": "tilakpoudel.com.np.location_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64979038899-ri8hj366d9e64k70l4e4h1mgufn59pug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByN9YfCTJOG8e2KZ924Yo1eZ2w6PMn5Tc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64979038899-ri8hj366d9e64k70l4e4h1mgufn59pug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
